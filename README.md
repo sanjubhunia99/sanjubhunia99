@@ -4,7 +4,7 @@
 <h2 align="center">I'm a FullStack Developer</h2>
 <h3 align="center">A passionate Software Developer from India</h3>
 <!-- <p align ="right"><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="50%"></body></p> -->
-<img align="right" width="50%" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY">
+<img align="right" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&s">
 
 <p align="left" padding-top="50px"> <img src="https://komarev.com/ghpvc/?username=sanjubhunia99&label=Profile%20views&color=0e75b6&style=flat" alt="sanjubhunia99" /> 
 
@@ -14,8 +14,6 @@
 - 👯 I’m looking to collaborate on **github**
   </p>
   <br>
-
-
 
 
   <br>
@@ -61,11 +59,12 @@ Sunday       53 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages:
-Java                     4 hrs 40 mins       ██████████████████░░░░░░░░     75.11%
-JavaScript               2 hrs 20 mins       ████████████░░░░░░░░░░░░░░░   52.76% 
-CSS                      1 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░░░   18.36% 
-HTML                     2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░░░   18.81%
-React.js                 2 hrs 16 mins       ███████████░░░░░░░░░░░░░░░░   52.76%
+JavaScript               4 hrs 40 mins       ██████████████████░░░░░░░░░     75.11%
+Java                     2 hrs 20 mins       ████████████░░░░░░░░░░░░░░░   52.76% 
+CSS                      1 hrs 15 mins       ████████████░░░░░░░░░░░░░░░   50.36% 
+HTML                     1 hrs 15 mins       ██████████████░░░░░░░░░░░░░   60.81%
+SQL                      1 hrs 15 mins       ██████████████░░░░░░░░░░░░░   60.81%
+React.js                 2 hrs 16 mins       ███████████░░░░░░░░░░░░░░░░   42.76%
 
 
 🔥 Editors: 
@@ -88,11 +87,11 @@ Lunix                    2  hrs 46 mins      ██░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     3 repos             ████████████████░░░░░░░░░   75.09%
-JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   45.45% 
+Java                     5 repos             ████████████████░░░░░░░░░   75.09%
+JavaScript               1 repos            ███████████░░░░░░░░░░░░░░   45.45% 
 HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.15%
-React.js                 15 repos            ███████████░░░░░░░░░░░░░░   45.45% 
+React.js                 5 repos            ███████████░░░░░░░░░░░░░░   45.45% 
 
 
 ```
