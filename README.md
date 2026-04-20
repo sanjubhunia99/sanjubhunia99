@@ -41,7 +41,7 @@
 
   <h3 align="left">Languages and Tools:</h3>
 
-  <p align="left" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+  <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" alt="css3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30" alt="html5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" title="Java"/>
