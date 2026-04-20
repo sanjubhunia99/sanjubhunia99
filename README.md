@@ -41,7 +41,7 @@
 
   <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+<p align="left" style="display:flex; gap:16px; flex-wrap:wrap; align-items:center;">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30" title="ReactJS"/>
 
@@ -63,7 +63,7 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" height="30" title="Express.js"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" title="Java"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript"/>
 
