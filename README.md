@@ -41,32 +41,24 @@
 
   <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="display:flex; gap:16px; flex-wrap:wrap; align-items:center;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30" title="ReactJS"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" title="GitHub"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" title="Git"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30" title="Windows"/>
-
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30" title="Postman"/>
-
-  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-client-logo.png" width="30" height="30" title="Thunder Client"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" title="Linux"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" title="Node.js"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" height="30" title="Express.js"/>
-
+  <p align="left" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" alt="css3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30" alt="html5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" title="Java"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30" title="ReactJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" height="30" title="Express.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" title="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30" title="Postman"/>
+  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-client-logo.png" width="30" height="30" title="Thunder Client"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30" title="Windows"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" title="Linux"/>
+  
 </p>
 
 **I'm a Night 🦉**
