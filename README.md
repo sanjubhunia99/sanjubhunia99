@@ -14,7 +14,7 @@
 
 - 👨‍💻 I’m currently working on **Student**
 - 🌱 I’m currently learning **Java & JavaScript**
-- 🎥 Check my <a href="http://sanjubhunia99.github.io/Portfolio/"target="_blank"
+- 🎥 Check my <a href="http://sanjubhunia99.github.io/Portfolio/" target="_blank"
   rel="noopener noreferrer"><strong>Portfolio</strong></a>
 - 👯 I’m looking to collaborate on **GitHub**
 
