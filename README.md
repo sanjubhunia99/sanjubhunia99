@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>&nbsp;
   </a>
 
-  <a href="https://instagram.com/thesanju_bhunia99" target="_blank">
+  <a href="https://www.instagram.com/thesanjubhunia99/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>&nbsp;
   </a>
 
